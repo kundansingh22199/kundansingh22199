@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Asp DotNet Core Mvc**
 
-- 👨‍💻 All of my projects are available at [kundan.webtechsolution.net](http:/kundan.webtechsolution.net)
+- 👨‍💻 All of my projects are available at [kundan.webtechsolution.net](https://kundanrajput.vercel.app)
 
 - 📫 How to reach me **kundansingh22199@gmail.com**
 
